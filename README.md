@@ -1,1 +1,5 @@
-# ds4021_lab01
+# DS4021 | Machine Learning - Lab 1
+
+Group 4 Repository for working on lab 01 
+
+**Group Members:** Kaitlin Luu, Natalie Schweickert, James Torgerson
